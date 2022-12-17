@@ -1,0 +1,7 @@
+.tableActions {
+	border: 2px dashed rgb(79, 70, 229);
+	height: 2px;
+	width: 16px;
+	border-radius: 2px;
+	cursor: pointer;
+}

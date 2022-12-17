@@ -1,0 +1,17 @@
+export enum MAIN_ROUTES {
+	HOME = '/home',
+	LOGIN = '/login',
+	ANALYTICS = '/analtics',
+	FUNDS = '/funds',
+	QOZBS = '/qozbs',
+	INVESTORS = '/investors',
+	CAPZONE_IDS = '/capzoneIds',
+	REPORTS = '/reports',
+	TASKS = '/tasks',
+	USERS = '/users',
+	KNOWLEDGE_BASE = '/knowledge-base',
+	CREATE_USER = '/create/:userId',
+	FORGOT_PASSWORD = '/forgotPassword',
+	VERIFY_EMAIL = '/identity/verify-email',
+	RESET_PASSWORD = '/identity/reset-password',
+}
